@@ -1,5 +1,8 @@
 # ByteSpace landing page
 
+**Live:** https://bytespace-g4igb875f-noor16122000-6813.vercel.app/
+**Pull Request:** https://github.com/Nahar16/bytespace/pull/1
+
 React + Vite. Fonts (Poppins, Outfit) are bundled, so it works offline.
 
     npm install
