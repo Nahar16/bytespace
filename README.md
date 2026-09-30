@@ -1,0 +1,10 @@
+# ByteSpace landing page
+
+React + Vite. Fonts (Poppins, Outfit) are bundled, so it works offline.
+
+    npm install
+    npm run dev      # local preview
+    npm run build    # production build in dist/
+
+Type scale (src/styles.css :root): h1 72 / h2 44 / h3 36 / h4 20 / lead 18 / body 16 / small 14 / xs 12.
+Images live in src/assets. Colours are CSS variables at the top of styles.css.
